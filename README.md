@@ -38,7 +38,7 @@ I’m especially interested in the intersection of **cloud infrastructure, scala
 
 ## Projects & Code (Honest Take)
 
-My repositories focus primarily on **foundational software engineering skills and practical implementations** rather than production-hardened systems. They reflect how I think, how I approach problems, and how I write maintainable code,not finalized enterprise-scale solutions.
+My repositories focus primarily on **foundational software engineering skills and practical implementations** rather than production-hardened systems. They reflect how I think, how I approach problems, and how I write maintainable code, not finalized enterprise-scale solutions.
 
 ### Strengths You’ll See
 - Clear demonstrations of core CS concepts (algorithms, validation logic, data modeling)
