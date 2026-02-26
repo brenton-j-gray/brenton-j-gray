@@ -16,6 +16,7 @@ I’m especially interested in the intersection of **cloud infrastructure, scala
 - Python
 - C#
 - JavaScript
+- Java
 
 **Foundations**
 - Data Structures & Algorithms  
@@ -81,4 +82,3 @@ I’m a lifelong gamer, but my interest is technical: backend services, streamin
 - **Portfolio** https://brenton-j-gray.github.io/portfolio
 
 Always open to talking about cloud platforms, gaming infrastructure, system design, or learning from engineers who’ve operated systems at scale.
-``
